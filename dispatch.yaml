@@ -1,0 +1,10 @@
+
+# // Cesar Alvarado Julio - 2016 @alvaradopcesar
+
+# application: tgcursoandroid-144718
+dispatch:
+  - url: "*/_ah/spi/*"
+    service: default
+
+  # - url: "*/*"
+  #   module: frontend
